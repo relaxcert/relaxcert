@@ -1,0 +1,19 @@
+{
+  "name": "relaxcert",
+  "version": "1.0.0",
+  "description": "",
+  "main": "relaxcert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/yunjiankeji/autocert.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@webantic/nginx-config-parser": "^1.6.1",
+    "crontab": "^1.4.2"
+  }
+}
